@@ -1,4 +1,4 @@
-# Boot2root
+# Boot2root [![gaerhard's 42 boot2root Score](https://badge42.vercel.app/api/v2/clatwxbni01060fmdfe7xoii0/project/2880897)](https://github.com/JaeSeoKim/badge42)
 
 Exploit an ISO and become root, 2 different methods must be found and the ISO cannot be modified.
 ## Introduction
